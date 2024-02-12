@@ -6,7 +6,7 @@ Data from the previous year Olympic results is used to predict the future wins o
 
 ## Approach
 Dataset 'teams.csv' contains data of the Olympic Wins of all countries till. The dataset has been divided on a 80-20 basis to train and test it . Training data: All the wins scored by the participating countries in the years < 2012.Testing data: Predicting the wins of the countries participated in the Olympics from 2012 and later .First the data is indentified and cleaned. The coloumns which are not required can be filtered out .Then using Linear Regression we can predictions. Then using Mean Absolute Error , the errors are calculated b/w the real and the real values . This gives a clear idea onn the accuracy of out training model and gives insights how the model can be improved.
-
+Dataset: teams.csv
 Accuracy %age : 78.85780495412234
 
 ## Linear Regression
