@@ -10,7 +10,7 @@ Dataset: teams.csv
 Accuracy %age : 78.85780495412234
 
 ## Linear Regression
-Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.LR haelps to make predictions make easily. It is a scientifically proven and reliable way to predict the future.
+Linear Regression is a type of supervised ML algorithm.Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.LR haelps to make predictions make easily. It is a scientifically proven and reliable way to predict the future.
 ## Error Metric
  ![Screenshot 2024-02-12 224931](https://github.com/itskutush/Olympic-Wins-Prediction-Model/assets/89831977/50f31739-3c4e-4392-a7df-76b4f2e264d3)
                 
