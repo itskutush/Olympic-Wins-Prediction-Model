@@ -17,4 +17,4 @@ Linear Regression is a type of supervised ML algorithm.Linear regression analysi
 
 Mean absolute error (MAE) is a measure of errors between paired observations expressing the same phenomenon. Mean absolute error is a popular metric because, as with Root mean squared error (RMSE), the error value units match the predicted target value units. Unlike RMSE, the changes in MAE are linear and therefore intuitive. MSE and RMSE penalize larger errors more, inflating or increasing the mean error value due to the square of the error value. In MAE, different errors are not weighted more or less, but the scores increase linearly with the increase in errors. The MAE score is measured as the average of the absolute error values. The Absolute is a mathematical function that makes a number positive. Therefore, the difference between an expected value and a predicted value can be positive or negative and will necessarily be positive when calculating the MAE.
 
-
+Tech Stack
